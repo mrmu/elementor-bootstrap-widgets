@@ -1,0 +1,39 @@
+.btn_next{position: absolute; top:50%; right: 5px;}
+.btn_prev{position: absolute; top:50%; left: 5px;}
+.bootstrap-widgets .modal-body{padding:0;}
+.bootstrap-widgets .modal-backdrop.in{opacity: 0.75;}
+.bootstrap-widgets button.close{
+	position: absolute;
+	right: 5px;
+	z-index: 99;
+}
+.bootstrap-widgets .thumb{
+	text-align:center;
+}
+.bootstrap-widgets .thumbnail{
+	display:inline-block;
+}
+.bootstrap-widgets .modal-footer{
+	color:#fff;
+	background-color:#333;
+}
+
+/* let modal vertical align is middle */
+.bootstrap-widgets .modal {
+	text-align: center;
+	padding: 0!important;
+}
+
+.bootstrap-widgets .modal:before {
+	content: '';
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+	margin-right: -4px;
+}
+
+.bootstrap-widgets .modal-dialog {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+}

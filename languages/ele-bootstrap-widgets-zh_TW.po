@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Bootstrap Widgets\n"
+"POT-Creation-Date: 2018-10-26 18:11+0800\n"
+"PO-Revision-Date: 2018-10-26 18:22+0800\n"
+"Last-Translator: Audi Lu <mrmu@mrmu.com.tw>\n"
+"Language-Team: Audi Lu <mrmu@mrmu.com.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bootstrap_widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bootstrap_widgets.php:51
+msgid ""
+"Elementor Bootstrap Widgets is not working because you are using an old "
+"version of Elementor."
+msgstr ""
+"Elementor Bootstrap Widgets 無法運行，因為你使用的 Elementor 太過老舊。"
+
+#: bootstrap_widgets.php:52
+msgid "Update Elementor Now"
+msgstr "立即更新 Elementor"
+
+#: widgets/bootstrap-modal.php:17
+msgid "Bootstrap Modal"
+msgstr "Bootstrap 燈箱"
+
+#: widgets/bootstrap-modal.php:29
+msgid "Trigger Settings"
+msgstr "觸發設定"
+
+#: widgets/bootstrap-modal.php:36
+msgid "Trigger Type"
+msgstr "觸發類型"
+
+#: widgets/bootstrap-modal.php:39
+msgid "Please fill the below settings of what trigger type you selected."
+msgstr "請針對所選的觸發類型填寫以下設定。"
+
+#: widgets/bootstrap-modal.php:42 widgets/bootstrap-modal.php:61
+msgid "Gallery"
+msgstr "相簿"
+
+#: widgets/bootstrap-modal.php:68
+msgid "Add Images"
+msgstr "加入圖片"
+
+#: widgets/bootstrap-modal.php:154
+msgid "Modal Settings"
+msgstr "燈箱設定"
+
+#: widgets/bootstrap-modal.php:162
+msgid "Bootstrap Version"
+msgstr "Bootstrap 版本"
+
+#: widgets/bootstrap-modal.php:166
+msgid "3.x"
+msgstr "3.x"
+
+#: widgets/bootstrap-modal.php:241
+msgid "Please fill the gallery section settings."
+msgstr "請填寫相簿設定。"
+
+#: widgets/bootstrap-modal.php:266
+msgid "Please fill the text link section settings."
+msgstr "請填寫文字鏈結設定。"
+
+#: widgets/bootstrap-modal.php:285
+msgid "Close"
+msgstr "關閉"
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Bootstrap Widgets"
+msgstr "Elementor Bootstrap Widgets"
+
+#. Description of the plugin/theme
+msgid ""
+"To provide a eazy way to add elementor widgets that compatible with "
+"bootstrap theme."
+msgstr ""
+"提供一個簡單的方式來加入與 Bootstrap Framework 佈景相容的 Elementor "
+"Widget。"
+
+#. Author of the plugin/theme
+msgid "Audi Lu"
+msgstr "Audi Lu"
+
+#. Author URI of the plugin/theme
+msgid "http://audilu.com"
+msgstr "http://audilu.com"
